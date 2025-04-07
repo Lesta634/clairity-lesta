@@ -10,7 +10,7 @@ module.exports = {
         try {
             ppuser = await fuzzy.profilePictureUrl(m.sender, 'image');
         } catch (err) {
-            ppuser = 'https://files.catbox.moe/0arg0u.jpg'; // Default profile picture
+            ppuser = 'https://www.facebook.com/share/p/16Sqn7mmL5/'; // Default profile picture
         }
 
 
