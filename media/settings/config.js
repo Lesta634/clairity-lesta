@@ -15,13 +15,13 @@ global.ownerNumber = [`${global.owner}`,'no2','no3'] // no owner yang dapat meng
 global.email = '@gmail.com' // kosongkan jika tidak punya
 global.web = '.com' // kosongkan jika tidak punya
 global.location = 'Banten' // isi daerah mu atau tempat tinggal mu jika tidak mau kosongkan
-global.packname = 'Mayura bot' // wm yg ada di sticker
+global.packname = 'LESTA' // wm yg ada di sticker
 global.author = 'dibuat oleh xZiyy' // wm yg ada di sticker
-global.imgUrl = "https://files.catbox.moe/s99a5l.jpg" // ubah menggunakan !setimgbot
-global.menuimgUrl = "https://files.catbox.moe/7lo0hv.jpg" // ubah menggunakan !setimgmenu
+global.imgUrl = "https://files/storage/emulated/0/DCIM/DSLR Camera-1735217367186.jpg" // ubah menggunakan !setimgbot
+global.menuimgUrl = "https://www.facebook.com/share/p/16Sqn7mmL5/" // ubah menggunakan !setimgmenu
 
 global.idch = "120363418582467615@newsletter"
-global.namech = "- Mayura bot -"
+global.namech = "- LESTA_ELIUD -"
 
 global.mess = {
     group: "Fitur Hanya Digunakan Untuk Grup!",
